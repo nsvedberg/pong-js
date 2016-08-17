@@ -1,8 +1,3 @@
-/* pong.js
- *
- * this stuff is pretty rough, but it's late and it works so LETS SHIP IT
-*/
-
 (function(){
     class Entity {
         constructor(x, y, draw, tick) {
